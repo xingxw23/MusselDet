@@ -7,7 +7,7 @@ dataset_dir = "yolo_mussel_dataset"  # 解压后的数据集目录
 data_yaml_path = os.path.join(dataset_dir, "data.yaml")
 model_output_dir = "runs/segment/train"
 
-# ✅ 加载 YOLOv8-seg 模型（你也可以选择 yolov8n-seg.pt）
+# ✅ 加载模型（你也可以选择 yolov8n-seg.pt）
 model = YOLO("yolov8s-seg.pt")
 
 # ✅ 开始训练
