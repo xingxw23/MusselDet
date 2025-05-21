@@ -10,5 +10,4 @@ High performance on the custom-built Golden Mussel Dataset (GMD)
 
 Lightweight, real-time deployment ready
 
-🔬 Corresponding paper submitted to IEEE JSTARS.
 📁 Dataset and model weights available upon request.
